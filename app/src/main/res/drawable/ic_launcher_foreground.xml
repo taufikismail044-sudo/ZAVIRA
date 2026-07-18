@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Decorative Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:pathData="M 54,24 A 30,30 0 1,1 53.99,24 Z" />
+    
+    <!-- Inner Decorative Star Points -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M54,16 L57,25 L66,25 L59,31 L61,40 L54,34 L47,40 L49,31 L42,25 L51,25 Z" />
+
+    <!-- Islamic Dome / Mosque Outline -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M54,35 C48,35,42,42,42,50 L42,66 L66,66 L66,50 C66,42,60,35,54,35 Z" />
+
+    <!-- Gateway Arch inside Dome -->
+    <path
+        android:fillColor="#0E4E28"
+        android:pathData="M54,44 C50,44,46,49,46,54 L46,66 L62,66 L62,54 C62,49,58,44,54,44 Z" />
+
+    <!-- Zakat Gold Coin in the Arch -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,50 A 6,6 0 1,1 53.99,50 Z" />
+
+    <!-- Hands of Charity Supporting the Dome -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M32,68 C35,68,38,72,44,72 C50,72,52,68,54,68 C56,68,58,72,64,72 C70,72,73,68,76,68 C80,68,82,72,82,76 L82,80 L26,80 L26,76 C26,72,28,68,32,68 Z" />
+    
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M38,76 C42,76,46,84,54,84 C62,84,66,76,70,76 C74,76,78,82,78,86 L78,88 L30,88 L30,86 C30,82,34,76,38,76 Z" />
+</vector>

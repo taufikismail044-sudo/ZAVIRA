@@ -1,0 +1,6 @@
+{
+  "name": "ZAVIRA",
+  "description": "Zakat Virtual Assistant BAZNAS Kabupaten Sampang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
